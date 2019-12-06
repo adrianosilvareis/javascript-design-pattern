@@ -4,6 +4,7 @@ This repository is a collection of design patterns for javacript and your goal i
 
 ## Pattern list
 1. [Command Pattern](./patterns/command-design-pattern.md)
+2. [Constructor Pattern](./patterns/constructor-design-pattern.md)
 
 [LICENSE](./LICENSE.md)
 
